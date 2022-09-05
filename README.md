@@ -1,6 +1,6 @@
 # pixel-correction
 
-[![tests](https://github.com/hereariim/pixel-correction/workflows/tests/badge.svg)](https://github.com/hereariim/napari-blossom/actions)
+[![tests](https://github.com/hereariim/pixel-correction/workflows/tests/badge.svg)](https://github.com/hereariim/pixel-correction/actions)
 
 Plugin for correcting pixel wrongly predicted on image segmented
 
