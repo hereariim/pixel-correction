@@ -1,11 +1,6 @@
 # pixel-correction
 
-[![License BSD-3](https://img.shields.io/pypi/l/napari-blossom.svg?color=green)](https://github.com/hereariim/napari-blossom/raw/main/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/napari-blossom.svg?color=green)](https://pypi.org/project/napari-blossom)
-[![Python Version](https://img.shields.io/pypi/pyversions/napari-blossom.svg?color=green)](https://python.org)
-[![tests](https://github.com/hereariim/napari-blossom/workflows/tests/badge.svg)](https://github.com/hereariim/napari-blossom/actions)
-[![codecov](https://codecov.io/gh/hereariim/napari-blossom/branch/main/graph/badge.svg)](https://codecov.io/gh/hereariim/napari-blossom)
-[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-blossom)](https://napari-hub.org/plugins/napari-blossom)
+[![tests](https://github.com/hereariim/pixel-correction/workflows/tests/badge.svg)](https://github.com/hereariim/napari-blossom/actions)
 
 Plugin for correcting pixel wrongly predicted on image segmented
 
