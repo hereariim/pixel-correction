@@ -1,0 +1,2 @@
+[napari.manifest]
+pixel-correction = pixel_correction:napari.yaml

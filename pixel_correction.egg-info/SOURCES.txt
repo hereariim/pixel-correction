@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+pixel_correction/__init__.py
+pixel_correction/_widget.py
+pixel_correction/path.py
+pixel_correction.egg-info/PKG-INFO
+pixel_correction.egg-info/SOURCES.txt
+pixel_correction.egg-info/dependency_links.txt
+pixel_correction.egg-info/entry_points.txt
+pixel_correction.egg-info/requires.txt
+pixel_correction.egg-info/top_level.txt

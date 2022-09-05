@@ -1,0 +1,21 @@
+name: pixel-correction
+contributions:
+  commands:
+    - id: pixel-correction.load
+      title: Load image
+      python_name: pixel_correction._widget:process_function_load
+
+    - id: pixel-correction.save_label
+      title: Save label
+      python_name: pixel_correction._widget:save_modification
+
+    - id: pixel-correction.save_as_zip
+      title: Save zip
+      python_name: pixel_correction._widget:save_as_zip
+  widgets:
+    - command: pixel-correction.load  # note, same as command.id above
+      display_name: Load image
+    - command: pixel-correction.save_label  # note, same as command.id above
+      display_name: Save label
+    - command: pixel-correction.save_as_zip  # note, same as command.id above
+      display_name: Save zip
