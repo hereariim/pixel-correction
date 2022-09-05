@@ -39,11 +39,15 @@ First, you need a compressed file (in .zip format) were you have all your images
             ├── im_n.JPG
             └── im_n_mask.JPG
 ```
+In repository, each image folder should have two elements : image in RGB and the segmented mask in binary image (where no-flower class is 0 and flower class is 255)
 
 ## Contributing
 
 Contributions are very welcome. Tests can be run with [tox], please ensure
 the coverage at least stays the same before you submit a pull request.
+
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
 
 
 ## Issues
