@@ -46,8 +46,8 @@ In repository, each image folder should have two elements : image in RGB and the
 Contributions are very welcome. Tests can be run with [tox], please ensure
 the coverage at least stays the same before you submit a pull request.
 
-![alt text](https://github.com/hereariim/pixel-correction/tree/master/readmeimage/IMG_3330.jpg)
-![alt text](https://github.com/hereariim/pixel-correction/tree/master/readmeimage/IMG_3330_mask.png)
+![alt text](https://github.com/hereariim/pixel-correction/blob/main/readmeimage/IMG_3330.jpg)
+![alt text](https://github.com/hereariim/pixel-correction/blob/main/readmeimage/IMG_3330_mask.png)
 
 
 ## Issues
